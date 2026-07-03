@@ -1,0 +1,33 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[reuters.com](https://www.reuters.com/)",
+    "[apnews.com](https://apnews.com/)",
+    "[36kr.com](https://36kr.com/)"
+  ],
+  "design_plan": "rng_seed=42; layout=cinematic_centered; AIDA=checked; hero_max_width=1120; bento_density=grid-auto-flow:dense; labels=competitors_swept; buttons=contrast_passed",
+  "generated_at": "2026-07-03T06:36:28.425191+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A refreshed editorial brief for buyers and builders tracking personal AI agents \u2014 from ChatGPT and Gemini to Siri, Grok, Folk, Orchids, and Super. This edition focuses on the rapid shift toward real computer-use agents, Gemini\u2019s native computer-use rollout, and why caching computer work is becoming the economic advantage."
+}
